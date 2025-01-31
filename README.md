@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 <a/>
 
 <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
 </a>
 
 <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/">
