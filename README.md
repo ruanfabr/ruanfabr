@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 
 <p>*links do meu repositório com as linguagens*</p>
 
-<div text-decoration="none" color="black">
   
   <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=" text-decoration="none" color="black">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
@@ -34,4 +33,3 @@ Here are some ideas to get you started:
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   
-</div>
