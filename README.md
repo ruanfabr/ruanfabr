@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" target="_blank"/>
 </a>
 !-->
-[![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg?width="40"_height="40")](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
+[![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg?width=40_height=40)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
 
 <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"/>
