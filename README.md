@@ -20,25 +20,14 @@ Here are some ideas to get you started:
 
 *links do meu repositório com as linguagens*
 
-<div>
+<a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=">
+  <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt=""/>
+<a/>
   
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt=""/>
-  <a/>
+<a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt=""/>
+</a>
 
-<button>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
-![redirect](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
-</button>
-<!--
-[![link para python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
- 
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt=""/>
-  </a>
-!-->
-  <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt=""/>
-  </a>
-  
-</div>  
+<a href="https://www.linkedin.com/in/ruan-fabricio-340739165/">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" alt=""/>
+</a>
