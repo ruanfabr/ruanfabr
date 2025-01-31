@@ -14,22 +14,28 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<style>
+  a{
+    text-decoration: none;
+  }
+</style>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruanfab&theme=material-palenight&show_icons=true)
 
 <p>*links do meu repositório com as linguagens*</p>
 
+<div>
   
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=" text-decoration="none" color="black">
+  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
   <a/>
   
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=" text-decoration="none" color="black">
+  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
   </a>
   
-  <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/" text-decoration="none" color="black">
+  <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
   </a>
   
+</div>  
