@@ -22,15 +22,15 @@ Here are some ideas to get you started:
 <div>
   
   <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=" color="black" text-decoration="none">
-    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
+<!--     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> -->
   <a/>
   
   <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=" color="black" text-decoration="none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" />
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" /> -->
   </a>
   
   <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/" color="black" text-decoration="none">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
+<!--     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" /> -->
   </a>
   
 </div>  
