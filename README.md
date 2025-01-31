@@ -1,4 +1,4 @@
-[![Teste](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=)
+
 
 ## Hey, welcome to my GitHub 😁
 
@@ -23,9 +23,8 @@ Here are some ideas to get you started:
 
 <div>
   
-  <a color="black" text-decoration="none" href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=">
-    oi
-<!--     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> -->
+  <a color="black" text-decoration="none" href=`https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=`>
+    <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
   <a/>
   
   <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=" color="black" text-decoration="none">
