@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 <div>
   
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=" color="black" text-decoration="none">
+  <a color="black" text-decoration="none" href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=">
     oi
 <!--     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" /> -->
   <a/>
