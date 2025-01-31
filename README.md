@@ -24,11 +24,12 @@ Here are some ideas to get you started:
   <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" target="_blank"/>
 <a/>
 
-
+<!--
 <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" target="_blank"/>
 </a>
-
+!-->
+[![python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg?)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
 
 <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"/>
