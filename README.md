@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruanfab&theme=material-palenight&show_icons=true)
 
-<p>*links do meu repositório com as linguagens*</p>
+*links do meu repositório com as linguagens*
 
 <div>
   
