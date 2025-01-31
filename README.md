@@ -26,9 +26,12 @@ Here are some ideas to get you started:
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" alt=""/>
   <a/>
 
-[![link para python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
-  
+<button>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+</button>
 <!--
+[![link para python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
+ 
   <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40" alt=""/>
   </a>
