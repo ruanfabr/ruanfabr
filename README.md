@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 <button>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="40" height="40"/>
+![redirect](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
 </button>
 <!--
 [![link para python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=)
