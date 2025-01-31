@@ -22,10 +22,9 @@ Here are some ideas to get you started:
 
 <div>
 
-<div width="40" height="40">
-[![Teste](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=)
-</div>
-
+<img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40">
+[![Teste](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)]
+</img>
   <!--
   <a color="black" text-decoration="none" href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="40" height="40" />
