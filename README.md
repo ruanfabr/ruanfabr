@@ -14,14 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<style>
-  a{
-    text-decoration: none;
-  }
-  p{
-    text-weigth: bold;
-  }
-</style>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruanfab&theme=material-palenight&show_icons=true)
 
