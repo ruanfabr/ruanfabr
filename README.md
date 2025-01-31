@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 <a/>
 
 <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" />
 </a>
   
 </div>
