@@ -1,4 +1,3 @@
-[![Teste](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=)
 
 ## Hey, welcome to my GitHub 😁
 
@@ -24,7 +23,7 @@ Here are some ideas to get you started:
 <div>
 
 <div width="40" height="40">
-  Teste
+[![Teste](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=)
 </div>
 
   <!--
