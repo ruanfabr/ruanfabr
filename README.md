@@ -54,6 +54,6 @@ Here are some ideas to get you started:
 **links**
 <div >
   <a href="https://www.linkedin.com/in/ruan-fabricio-340739165/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="40" height="40" target="_blank"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="60" height="60" target="_blank"/>
   </a>
 </div>
