@@ -2,7 +2,7 @@
 ## Hey, welcome to my GitHub 😁
 
 <!--
-**VRuanFab/VRuanFab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**ruanfabr/ruanfabr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -16,20 +16,20 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vruanfab&theme=material-palenight&show_icons=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ruanfabr&theme=material-palenight&show_icons=true)
 
 *links do meu repositório com as linguagens*
 
 <div margin-inline="5" display="flex">
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=javascript&sort=" target="_blank">
+  <a href="https://github.com/ruanfabr?tab=repositories&q=&type=&language=javascript&sort=" target="_blank">
     <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="60" height="60" target="_blank"/>
   <a/>
 
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=typescript&sort=">
+  <a href="https://github.com/ruanfabr?tab=repositories&q=&type=&language=typescript&sort=">
     <img src="https://img.icons8.com/?size=100&id=Xf1sHBmY73hA&format=png&color=000000" width="60" height="60" target="_blank"/>
   </a>
     
-  <a href="https://github.com/VRuanFab?tab=repositories&q=&type=&language=python&sort=" target="_blank">
+  <a href="https://github.com/ruanfabr?tab=repositories&q=&type=&language=python&sort=" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="60" height="60" target="_blank"/>
   </a>
 
