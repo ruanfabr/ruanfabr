@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is **Ruan** and I'm a Fullstack developer, from Brazil</h2>
+<h2 align="left">Hi 👋! My name is *Ruan* and I'm a Fullstack developer, from Brazil</h2>
 
 ###
 
