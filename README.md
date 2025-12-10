@@ -6,6 +6,8 @@
 <!-- <img src="https://github-readme-stats.vercel.app/api?username=ruanfabr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="200" alt="stats graph"  /> -->
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ruanfabr&theme=dark)](https://git.io/streak-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com/?user=ruanfabr&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&date_format=[Y.]n.j)](https://git.io/streak-stats)
   
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ruanfabr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=material-palenight&hide_border=false" height="200" alt="languages graph"  />
 </div>
