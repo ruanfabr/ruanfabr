@@ -4,7 +4,7 @@
 
 <div align="center">
   
-<img src="https://github-readme-stats.vercel.app/api?username=ruanfabr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="200" alt="stats graph"  />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=ruanfabr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=material-palenight&locale=en&hide_border=false" height="200" alt="stats graph"  /> -->
 
 <!-- ELEMENTO QUE NÃO FUNCIONA
 [![GitHub Streak](https://streak-stats.demolab.com/?user=ruanfabr&theme=dark)](https://git.io/streak-stats)
